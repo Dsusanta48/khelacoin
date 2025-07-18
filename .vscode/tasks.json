@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "khelacoin",
+			"problemMatcher": [],
+			"label": "npm: dev - khelacoin",
+			"detail": "next dev"
+		}
+	]
+}
